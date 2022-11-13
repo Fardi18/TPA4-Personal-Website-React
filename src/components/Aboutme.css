@@ -1,0 +1,10 @@
+.aboutme {
+  display: flex;
+}
+
+.poto {
+  object-fit: cover;
+  width: 100%;
+  height: 600px;
+  border-radius: 1rem;
+}
